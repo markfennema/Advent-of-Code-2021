@@ -1,12 +1,12 @@
 # Functional
 F#
+Lisp - Racket
 Haskell
-Scheme
-Lisp
 
 # New
 Rust
 Crystal
+Elixir
 
 # Gimicky
-
+Google Sheets

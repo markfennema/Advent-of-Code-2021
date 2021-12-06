@@ -1,7 +1,7 @@
 require "spec"
 puts "Hello World!"
 
-# The correct solution to this problem is to mark up the bingo cards as you go and reduce the runtime from O(MN^2) ->O(MN
+# The correct solution to this problem is to mark up the bingo cards as you go and reduce the runtime from O(MN^2) ->O(MN)
 # But that would have made the code way less fun (either by adding mutation or forcing me to make a nasty immutable
 # clone without one cell function). The BingoBoard class and tests turned out fine but I really was not enjoying Crystal so 
 # by the time I was writing up the actual p1/p2 functions I was getting a bit bored and just kludged them together.
